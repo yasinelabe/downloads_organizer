@@ -7,25 +7,22 @@ A small script that will safe you from the headache of the downloads folder. it 
 
     
     
-    ```bash
-    git clone
-    ```
+    git clone https://github.com/yasinelabe/downloads_organizer.git
+   
     
-    ```bash
+   
     cd downloads_organizer
-    ```
     
-    ```bash
+   
     pip install -r requirements.txt
-    ```
+  
     
-    ```bash
+   
     call env/Scripts/activate.bat
-    ```
+  
     
-    ```bash
+  
     python main.py
-    ```
 
 
     Also try to run the script in the background, figure out other solution like windows task scheduler.
